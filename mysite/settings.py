@@ -25,7 +25,7 @@ SECRET_KEY = '^=3@peephw7h%^e9q88w2s&rkrg#g@gytr*k4a@&#0&xzrf%ax'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com', 'shibikivfx.pythonanywhere.com']
 
 
 # Application definition
